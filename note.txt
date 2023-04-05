@@ -1,0 +1,14 @@
+https://642d7d775178593c69ad959a--idyllic-vacherin-898cdd.netlify.app
+
+
+project description
+
+=>create html file 
+=>create css file
+=>div tag create and id setup
+=> body tag end create script for javascript code 
+=>method call setInterval
+=>one function call showTime()
+=>run all the date class obj
+=>result call document id 
+=>then result show div tag
